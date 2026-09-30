@@ -1,0 +1,5 @@
+# Git attributes untuk efisiensi binary WebP
+*.webp binary
+*.png binary
+*.jpg binary
+*.jpeg binary
